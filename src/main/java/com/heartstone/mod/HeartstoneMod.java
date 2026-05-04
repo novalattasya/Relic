@@ -12,5 +12,6 @@ public class HeartstoneMod implements ModInitializer {
     public void onInitialize() {
         LOGGER.info("Initializing Heartstone...");
         ModItems.registerModItems();
+        ModBlocks.registerModBlocks();
     }
 }

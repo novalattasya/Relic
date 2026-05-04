@@ -1,5 +1,14 @@
 {
   "item.heartstone.heartstone": "Heartstone",
-  "item.heartstone.heartstone.tooltip": "Setiap jiwa yang jatuh tidak hilang… mereka menjadi bahan bakar perang berikutnya.",
+  "item.heartstone.heartstone.tooltip.1": "Setiap jiwa yang jatuh tidak hilang…",
+  "item.heartstone.heartstone.tooltip.2": "mereka menjadi bahan bakar perang berikutnya.",
+  
+  "item.heartstone.worldheart_gem": "Worldheart Gem",
+  "item.heartstone.worldheart_gem.tooltip.1": "Jantung dunia yang mengeras oleh ribuan perang…",
+  "item.heartstone.worldheart_gem.tooltip.2": "hanya yang bertahan yang bisa menemukannya.",
+  
+  "block.heartstone.worldheart_ore": "Worldheart Ore",
+  "item.heartstone.worldheart_ore": "Worldheart Ore",
+
   "itemGroup.heartstone.custom_tab": "Heartstone Mod"
 }
