@@ -15,14 +15,6 @@ repositories {
 }
 
 loom {
-	splitEnvironmentSourceSets()
-
-	mods {
-		"heartstone" {
-			sourceSet sourceSets.main
-			sourceSet sourceSets.client
-		}
-	}
 
 }
 

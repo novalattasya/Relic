@@ -3,7 +3,7 @@
   "id": "heartstone",
   "version": "${version}",
   "name": "Heartstone",
-  "description": "Jantung dunia yang mengeras oleh ribuan perang… hanya yang bertahan yang bisa menemukannya.",
+  "description": "A Minecraft mod that adds a new ore called Heartstone Ore, which drops a gem called Heartstone Gem. The gem can be used to craft powerful items and tools.",
   "authors": ["Nopal"],
   "contact": {},
   "license": "MIT",

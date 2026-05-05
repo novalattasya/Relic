@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "heartstone:block/worldheart_ore"
+  }
+}
